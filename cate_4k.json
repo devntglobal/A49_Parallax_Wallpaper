@@ -1,0 +1,240 @@
+[
+  {
+    "id": 1,
+    "name": "Animal",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/image\/Animal\/Animal%20wolf%20animal%20wallaper.jpg",
+    "type": 1,
+    "idCategoryParent": -1
+  },
+  {
+    "id": 4,
+    "name": "Anime",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/preview\/image\/Anime\/wallpaperflare.com_wallpaper (2).jpg",
+    "type": 1,
+    "idCategoryParent": -1
+  },
+  {
+    "id": 5,
+    "name": "Athletics",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/preview\/image\/Athletics\/athletics-man-play-basketball_optimized.jpg",
+    "type": 1,
+    "idCategoryParent": -1
+  },
+  {
+    "id": 6,
+    "name": "Car",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/preview\/image\/Car\/car-blue-in-bridge_optimized.jpg",
+    "type": 1,
+    "idCategoryParent": -1
+  },
+  {
+    "id": 7,
+    "name": "Church",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/preview\/image\/Church\/church-ben-lambert-color-blue-yellow-orange_optimized.jpg",
+    "type": 1,
+    "idCategoryParent": -1
+  },
+  {
+    "id": 8,
+    "name": "Food & Drink",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/preview\/image\/Food_Drink\/food-drink-chef-orange-white_optimized.jpg",
+    "type": 1,
+    "idCategoryParent": -1
+  },
+  {
+    "id": 9,
+    "name": "Light",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/preview\/image\/Light\/light-sunrise_optimized.jpg",
+    "type": 1,
+    "idCategoryParent": -1
+  },
+  {
+    "id": 10,
+    "name": "Nature",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/preview\/image\/Nature\/nature-rock-cave_optimized.jpg",
+    "type": 1,
+    "idCategoryParent": -1
+  },
+  {
+    "id": 11,
+    "name": "Quotes",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/preview\/image\/Nature\/nature-winter-tree-snow-water_optimized.jpg",
+    "type": 1,
+    "idCategoryParent": -1
+  },
+  {
+    "id": 12,
+    "name": "Live Wallpaper Animal",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/preview\/image\/Animal\/animal yellow and white dog-min.jpg",
+    "type": 2,
+    "idCategoryParent": 0
+  },
+  {
+    "id": 13,
+    "name": "Bright",
+    "path": "http:\/\/51.79.177.162\/app\/Wallpaper4kApero\/live\/Bright\/bright%20snow%20winter%20cloud%20sky%20house.mp4",
+    "type": 2,
+    "idCategoryParent": 0
+  },
+  {
+    "id": 14,
+    "name": "Flower",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/live\/Flower\/production ID_5076790.mp4",
+    "type": 2,
+    "idCategoryParent": 0
+  },
+  {
+    "id": 15,
+    "name": "Live Wallpaper Food",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/preview\/image\/Food_Drink\/food-drink-breakfast-bread-salat-blue_optimized.jpg",
+    "type": 2,
+    "idCategoryParent": 0
+  },
+  {
+    "id": 16,
+    "name": "Funny",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/live\/Funny\/girl, dance, have fun, funny.gif",
+    "type": 2,
+    "idCategoryParent": 0
+  },
+  {
+    "id": 17,
+    "name": "Holiday",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/live\/Holiday\/festival, jubilation, christmas, holiday,gift box, small electric light.mp4",
+    "type": 2,
+    "idCategoryParent": 0
+  },
+  {
+    "id": 18,
+    "name": "Motion",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/live\/Motion\/motion moon light sky water girl.gif",
+    "type": 2,
+    "idCategoryParent": 0
+  },
+  {
+    "id": 19,
+    "name": "Neon",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/live\/Neon\/neon led black blue purple.mp4",
+    "type": 2,
+    "idCategoryParent": 0
+  },
+  {
+    "id": 20,
+    "name": "Paranoid",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/live\/Paranoid\/paranoid black city weather thorn rain.gif",
+    "type": 2,
+    "idCategoryParent": 0
+  },
+  {
+    "id": 21,
+    "name": "Planet",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/live\/Planet\/planet sun hot fire light.gif",
+    "type": 2,
+    "idCategoryParent": 0
+  },
+  {
+    "id": 22,
+    "name": "Sad",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/live\/Sad\/black, white, sad, mood.gif",
+    "type": 2,
+    "idCategoryParent": 0
+  },
+  {
+    "id": 23,
+    "name": "Space",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/live\/Space\/space mountain stone ball air green.gif",
+    "type": 2,
+    "idCategoryParent": 0
+  },
+  {
+    "id": 24,
+    "name": "Technology",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/live\/Technology\/technology red black blue electric machine.mp4",
+    "type": 2,
+    "idCategoryParent": 0
+  },
+  {
+    "id": 25,
+    "name": "Don't touch",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/image\/don_t%20touch\/Dont%20touch%20cartoon%20drawings%20hand%20mouth%20phone%20sayings%20yellow%20wallpaper.jpg",
+    "type": 1,
+    "idCategoryParent": 1
+  },
+  {
+    "id": 26,
+    "name": "Life",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/image\/life\/life love night wallpaper quotes.jpg",
+    "type": 1,
+    "idCategoryParent": 1
+  },
+  {
+    "id": 27,
+    "name": "Love",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/image\/Love\/inscription_phrase_words_161846_1080x1920.jpg",
+    "type": 1,
+    "idCategoryParent": 1
+  },
+  {
+    "id": 28,
+    "name": "Motivational",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/image\/motivational\/peakpx (11).jpg",
+    "type": 1,
+    "idCategoryParent": 1
+  },
+  {
+    "id": 29,
+    "name": "Quotes Sad",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/image\/quotes sad\/peakpx (4).jpg",
+    "type": 1,
+    "idCategoryParent": 1
+  },
+  {
+    "id": 32,
+    "name": "Movie",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/image\/Movie\/Movie%20lord%20of%20the%20rings%20.jpg",
+    "type": 1,
+    "idCategoryParent": -1
+  },
+  {
+    "id": 33,
+    "name": "Game",
+    "path": "http:\/\/51.79.177.162\/\/app\/Wallpaper4kApero\/image\/Game\/Game%20LOL%20blue%20.jpg",
+    "type": 1,
+    "idCategoryParent": -1
+  },
+  {
+    "id": 34,
+    "name": "Galaxy",
+    "path": "http:\/\/51.79.177.162\/app\/Wallpaper4kApero\/preview\/image\/Galaxy\/jasper wilde start unsplash.jpg",
+    "type": 1,
+    "idCategoryParent": -1
+  },
+  {
+    "id": 35,
+    "name": "City",
+    "path": "http:\/\/51.79.177.162\/app\/Wallpaper4kApero\/preview\/image\/City\/cyber outrun vaporwave art.jpg",
+    "type": 1,
+    "idCategoryParent": -1
+  },
+  {
+    "id": 36,
+    "name": "3D",
+    "path": "http:\/\/51.79.177.162\/app\/Wallpaper4kApero\/preview\/image\/3D\/flower castle pink.jpg",
+    "type": 1,
+    "idCategoryParent": -1
+  },
+  {
+    "id": 37,
+    "name": "Idol",
+    "path": "http:\/\/51.79.177.162\/app\/Wallpaper4kApero\/image\/BTS\/love%20text%20background%20with%20rainbow.jpg",
+    "type": 1,
+    "idCategoryParent": -1
+  },
+  {
+    "id": 38,
+    "name": "Cute",
+    "path": "http:\/\/51.79.177.162\/app\/Wallpaper4kApero\/image\/Cute\/red fox standing in the snow.jpg",
+    "type": 1,
+    "idCategoryParent": -1
+  }
+]
