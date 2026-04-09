@@ -2275,32 +2275,11 @@
       "keyWord": "sandwich foodie, white"
     },
     {
-      "id": 313,
-      "link": "animal, funny, white, butterfly.mp4",
-      "type": 2,
-      "idCategory": 16,
-      "keyWord": "animal funny, white, butterfly"
-    },
-    {
-      "id": 314,
-      "link": "bee, funny, animal, white.mp4",
-      "type": 2,
-      "idCategory": 16,
-      "keyWord": "bee funny, animal, white"
-    },
-    {
       "id": 315,
       "link": "bird, examine, camera, funny.gif",
       "type": 2,
       "idCategory": 16,
       "keyWord": "bird examine, camera, funny"
-    },
-    {
-      "id": 316,
-      "link": "bird, white, funny, animal.mp4",
-      "type": 2,
-      "idCategory": 16,
-      "keyWord": "bird white, funny, animal"
     },
     {
       "id": 317,
@@ -5598,7 +5577,7 @@
     },
     {
       "id": 797,
-      "link": "Movie%20lord%20of%20the%20rings%20.jpg",
+      "link": "Movie lord of the rings.jpg",
       "type": 1,
       "idCategory": 32,
       "keyWord": "Movien lord of the rings",
@@ -5606,7 +5585,7 @@
     },
     {
       "id": 798,
-      "link": "Movie%20Joker%20red.jpg",
+      "link": "Movie Joker red.jpg",
       "type": 1,
       "idCategory": 32,
       "keyWord": "Movie Joker red",
@@ -5614,7 +5593,7 @@
     },
     {
       "id": 799,
-      "link": "Movie%20Dark%20Knight%20hero%20black.jpg",
+      "link": "Movie Dark Knight hero black.jpg",
       "type": 1,
       "idCategory": 32,
       "keyWord": "Movie Dark Knight hero black",
@@ -5622,7 +5601,7 @@
     },
     {
       "id": 800,
-      "link": "Movie%20Captain%20America%20man%20wallpaper%20super%20hero.jpg",
+      "link": "Movie Captain America man wallpaper super hero.jpg",
       "type": 1,
       "idCategory": 32,
       "keyWord": "Movie Captain America man wallpaper super hero",
@@ -5630,7 +5609,7 @@
     },
     {
       "id": 801,
-      "link": "Movie%20Avengers%20wallpaper.jpg",
+      "link": "Movie Avengers wallpaper.jpg",
       "type": 1,
       "idCategory": 32,
       "keyWord": "Movie Avengers wallpaper",
@@ -5638,7 +5617,7 @@
     },
     {
       "id": 802,
-      "link": "Game%20LOL%20%20blue%20red%20wallpaper.jpg",
+      "link": "Game LOL blue red wallpaper.jpg",
       "type": 1,
       "idCategory": 33,
       "keyWord": "Game LOL  blue red wallpaper",
@@ -5646,7 +5625,7 @@
     },
     {
       "id": 803,
-      "link": "Game%20LOL%20blue%20.jpg",
+      "link": "Game LOL blue.jpg",
       "type": 1,
       "idCategory": 33,
       "keyWord": "Game LOL blue ",
@@ -5654,7 +5633,7 @@
     },
     {
       "id": 804,
-      "link": "Game%20LOL%20blue%20girl%20wallpaper.jpg",
+      "link": "Game LOL blue girl wallpaper.jpg",
       "type": 1,
       "idCategory": 33,
       "keyWord": "Game LOL blue wallpaper",
@@ -5662,7 +5641,7 @@
     },
     {
       "id": 805,
-      "link": "Game%20LOL%20girl%20wallpaper%20pink%20.jpg",
+      "link": "Game LOL girl wallpaper pink.jpg",
       "type": 1,
       "idCategory": 33,
       "keyWord": "Game LOL girl wallpaper pink ",
@@ -5670,7 +5649,7 @@
     },
     {
       "id": 806,
-      "link": "Game%20The%20Gathering%20Arena%20wallpaper%20girl%20black.jpg",
+      "link": "Game The Gathering Arena wallpaper girl black.jpg",
       "type": 1,
       "idCategory": 33,
       "keyWord": "Game The Gathering Arena wallpaper girl black",
@@ -5678,7 +5657,7 @@
     },
     {
       "id": 807,
-      "link": "Wallpaper%20Game%20world%20class%20Vippro%202%20.jpg",
+      "link": "Wallpaper Game world class Vippro 2.jpg",
       "type": 1,
       "idCategory": 33,
       "keyWord": "Wallpaper Game world class Vippro 2 ",
@@ -5686,7 +5665,7 @@
     },
     {
       "id": 808,
-      "link": "Wallpaper%20Game%20world%20class%20Vippro%203%20pink.jpg",
+      "link": "Wallpaper Game world class Vippro 3 pink.jpg",
       "type": 1,
       "idCategory": 33,
       "keyWord": "Wallpaper Game world class Vippro 3 pink",
@@ -5694,7 +5673,7 @@
     },
     {
       "id": 809,
-      "link": "Wallpaper%20Game%20world%20class%20Vippro.jpg",
+      "link": "Wallpaper Game world class Vippro.jpg",
       "type": 1,
       "idCategory": 33,
       "keyWord": "Wallpaper Game world class Vippro",
@@ -5702,7 +5681,7 @@
     },
     {
       "id": 810,
-      "link": "Wallpaper%20Game%20world%20class%20white%20Vippro%205.jpg",
+      "link": "Wallpaper Game world class white Vippro 5.jpg",
       "type": 1,
       "idCategory": 33,
       "keyWord": "Wallpaper Game world class white Vippro 5",
@@ -5710,7 +5689,7 @@
     },
     {
       "id": 811,
-      "link": "Wallpaper%20world%20class%20Vippro%204%20dark.jpg",
+      "link": "Wallpaper world class Vippro 4 dark.jpg",
       "type": 1,
       "idCategory": 33,
       "keyWord": "Wallpaper world class Vippro 4 dark",
